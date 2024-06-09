@@ -4,6 +4,6 @@
 
 ## About me
 
-- 📲 Currently I am studying to be a Multi-platform Applications Developer
+- 📲 I am studying to be a Multi-platform Applications Developer
 - 🎥 Also learning web development and MySQL
 <br>
